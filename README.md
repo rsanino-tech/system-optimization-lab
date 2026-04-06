@@ -1,6 +1,6 @@
 # MacBook Pro 2015 → Ubuntu Linux Conversion
 
-**Operator:** Rafael San Inocencio (Junito)
+**Operator:** Rafael San Inocencio
 **Started:** April 2026
 **Status:** In Progress — Phase 1: Pre-Install Backup & Prep
 
