@@ -1,42 +1,48 @@
-═══════════════════════════════════════
-PHASE 6 — Performance Optimization (XFCE)
-═══════════════════════════════════════
+# Phase 6 — Performance Optimization (XFCE)
 
-OBJECTIVE:
+## Objective
+
 - Reduce system resource usage to improve performance.
 - Replace GNOME with a lightweight desktop environment.
 
-SCOPE:
+## Scope
+
 - XFCE installation
 - Desktop environment switching
 - RAM optimization
 
-TOOLS USED:
+## Tools Used
+
 - XFCE
 - Terminal
 
-KEY ACTIONS PERFORMED:
+## Key Actions Performed
+
 - Installed XFCE desktop environment
 - Configured session to use XFCE
 - Measured RAM usage before and after
 - Tested system responsiveness
 
-KEY DECISIONS MADE:
+## Key Decisions Made
+
 - Switched to XFCE due to GNOME resource overhead
 - Prioritized performance over visual aesthetics
 
-RISKS / ISSUES ENCOUNTERED:
+## Risks / Issues Encountered
+
 - Session switching confusion
 - Display manager inconsistencies
 
-OUTCOMES / RESULTS:
+## Outcomes / Results
+
 - Reduced RAM usage (~2.3GB)
 - Improved responsiveness
 
-EVIDENCE / ARTIFACTS:
+## Evidence / Artifacts
+
 - `free -h` output
 - Desktop session selection screen
 
-CURRENT STATUS:
+## Current Status
+
 - Complete
-═══════════════════════════════════════

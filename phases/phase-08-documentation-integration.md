@@ -1,44 +1,50 @@
-═══════════════════════════════════════
-PHASE 8 — Documentation & GitHub Integration
-═══════════════════════════════════════
+# Phase 8 — Documentation & GitHub Integration
 
-OBJECTIVE:
+## Objective
+
 - Document the full project for portfolio and reproducibility.
 - Structure content for GitHub presentation.
 
-SCOPE:
+## Scope
+
 - README creation
 - Phase documentation
 - Repository organization
 
-TOOLS USED:
+## Tools Used
+
 - GitHub
 - Markdown
 - Browser
 
-KEY ACTIONS PERFORMED:
+## Key Actions Performed
+
 - Created GitHub repository
 - Added README with Phase 1
 - Began Phase 2 documentation
 - Structured project notes
 
-KEY DECISIONS MADE:
+## Key Decisions Made
+
 - Chose GitHub for visibility and version control
 - Structured documentation by phases
 
-RISKS / ISSUES ENCOUNTERED:
+## Risks / Issues Encountered
+
 - Initial confusion with GitHub UI
 - Folder/file creation challenges
 
-OUTCOMES / RESULTS:
+## Outcomes / Results
+
 - Repository initialized
 - Documentation in progress
 
-EVIDENCE / ARTIFACTS:
+## Evidence / Artifacts
+
 - GitHub repo link
 - README content
 - Phase files
 
-CURRENT STATUS:
+## Current Status
+
 - Partial
-═══════════════════════════════════════

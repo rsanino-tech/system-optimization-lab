@@ -1,43 +1,49 @@
-═══════════════════════════════════════
-PHASE 7 — Terminal Customization (VELVET-CORE)
-═══════════════════════════════════════
+# Phase 7 — Terminal Customization
 
-OBJECTIVE:
+## Objective
+
 - Create a personalized and efficient terminal environment.
 - Improve readability and workflow through prompt customization.
 
-SCOPE:
+## Scope
+
 - PS1 customization
 - Color configuration
 - Terminal UX improvements
 
-TOOLS USED:
+## Tools Used
+
 - Bash
 - Terminal
 - Nano
 
-KEY ACTIONS PERFORMED:
+## Key Actions Performed
+
 - Modified PS1 prompt
 - Applied custom color scheme
 - Tested prompt behavior
 - Adjusted configuration in `.bashrc`
 
-KEY DECISIONS MADE:
+## Key Decisions Made
+
 - Designed multi-line prompt for clarity
 - Used high-contrast colors for readability
 
-RISKS / ISSUES ENCOUNTERED:
+## Risks / Issues Encountered
+
 - Prompt not updating due to `.bashrc` override
 - Configuration confusion
 
-OUTCOMES / RESULTS:
+## Outcomes / Results
+
 - Functional custom terminal prompt
 - Improved command visibility
 
-EVIDENCE / ARTIFACTS:
+## Evidence / Artifacts
+
 - `.bashrc` configuration
 - Terminal screenshot showing prompt
 
-CURRENT STATUS:
+## Current Status
+
 - Partial
-═══════════════════════════════════════

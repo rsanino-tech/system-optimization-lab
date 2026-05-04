@@ -3,7 +3,7 @@
 ## Neofetch Output — Fresh Ubuntu Install
 ## Date: April 2026
 ```
-.-/+oossssoo+/-.               johnny-nomad
+.-/+oossssoo+/-.               lab-user
         `:+ssssssssssssssssss+:`           OS: Ubuntu 24.04 LTS
       -+ssssssssssssssssssyyssss+-         Host: MacBook Pro 12,1
     .ossssssssssssssssssdMMMNysssso.       Kernel: 6.17

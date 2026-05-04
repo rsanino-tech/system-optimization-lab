@@ -1,38 +1,44 @@
-═══════════════════════════════════════
-PHASE 4 — Security Hardening
-═══════════════════════════════════════
+# Phase 4 — Security Hardening
 
-OBJECTIVE:
+## Objective
+
 - Establish baseline security controls on the Ubuntu system.
 - Reduce exposure to unauthorized access.
 
-SCOPE:
+## Scope
+
 - Firewall configuration
 - Basic system protection measures
 
-TOOLS USED:
+## Tools Used
+
 - UFW (Uncomplicated Firewall)
 
-KEY ACTIONS PERFORMED:
+## Key Actions Performed
+
 - Enabled UFW firewall
 - Configured default rules (deny incoming, allow outgoing)
 - Verified firewall status
 
-KEY DECISIONS MADE:
+## Key Decisions Made
+
 - Applied default deny policy for incoming traffic
 - Prioritized simplicity over advanced firewall rules
 
-RISKS / ISSUES ENCOUNTERED:
+## Risks / Issues Encountered
+
 - Risk of misconfiguration blocking legitimate traffic
 
-OUTCOMES / RESULTS:
+## Outcomes / Results
+
 - Firewall active and enforcing rules
 - System protected from unsolicited inbound traffic
 
-EVIDENCE / ARTIFACTS:
+## Evidence / Artifacts
+
 - `sudo ufw status`
 - Terminal confirmation output
 
-CURRENT STATUS:
+## Current Status
+
 - Partial
-═══════════════════════════════════════

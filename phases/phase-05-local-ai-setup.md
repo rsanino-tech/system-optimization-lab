@@ -1,43 +1,49 @@
-═══════════════════════════════════════
-PHASE 5 — Local AI Setup (Ollama)
-═══════════════════════════════════════
+# Phase 5 — Local AI Setup (Ollama)
 
-OBJECTIVE:
+## Objective
+
 - Deploy a local AI environment for offline interaction.
 - Enable lightweight LLM usage within hardware constraints.
 
-SCOPE:
+## Scope
+
 - Ollama installation
 - Model deployment
 - Local interaction setup
 
-TOOLS USED:
+## Tools Used
+
 - Ollama
 - Terminal
 
-KEY ACTIONS PERFORMED:
+## Key Actions Performed
+
 - Installed Ollama
 - Pulled lightweight models
 - Attempted to run local AI instances
 - Tested responses via terminal
 
-KEY DECISIONS MADE:
+## Key Decisions Made
+
 - Selected lightweight models due to 8GB RAM limitation
 - Prioritized local execution over cloud dependency
 
-RISKS / ISSUES ENCOUNTERED:
+## Risks / Issues Encountered
+
 - Port conflicts (`address already in use`)
 - Performance limitations
 
-OUTCOMES / RESULTS:
+## Outcomes / Results
+
 - Local AI partially operational
 - System capable of running lightweight models
 
-EVIDENCE / ARTIFACTS:
+## Evidence / Artifacts
+
 - Ollama command outputs
 - Error logs
 - Model response tests
 
-CURRENT STATUS:
+## Current Status
+
 - Partial
-═══════════════════════════════════════
