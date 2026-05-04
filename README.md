@@ -23,7 +23,7 @@ linux-setup-phases/
   phase-07-terminal-customization.md
   phase-08-documentation-integration.md
 
-linux/
+linux-security-labs/
   file-management-lab/
     README.md
     practice.sh
@@ -50,8 +50,8 @@ logs/
 - Moved hardware documentation into [docs/hardware-specs.md](docs/hardware-specs.md).
 - Moved installation and optimization phase files into the [linux-setup-phases/](linux-setup-phases/) directory.
 - Preserved the existing Ubuntu installation and system optimization history.
-- Added a beginner Linux file management project under [linux/file-management-lab/](linux/file-management-lab/).
-- Added [practice.sh](linux/file-management-lab/practice.sh) to automate file-management tasks and log actions.
+- Added a beginner Linux file management project under [linux-security-labs/file-management-lab/](linux-security-labs/file-management-lab/).
+- Added [practice.sh](linux-security-labs/file-management-lab/practice.sh) to automate file-management tasks and log actions.
 - Organized session logs under [logs/](logs/).
 
 ## Phase Documentation
