@@ -19,10 +19,8 @@ This lab documents how to learn SSH remote access safely in a local Linux lab. I
 remote-access-lab/
 ├── README.md
 ├── setup_ssh_lab.sh
-├── notes/
-│   └── ssh-lab-notes.md
-└── logs/
-    └── ssh_setup_example.log
+├── notes.md
+└── ssh_setup_example.log
 ```
 
 ## Prerequisites
@@ -70,5 +68,5 @@ If SSH is running but connections fail, check local firewall rules and confirm t
 ## Lab Files
 
 - [setup_ssh_lab.sh](setup_ssh_lab.sh)
-- [notes/ssh-lab-notes.md](notes/ssh-lab-notes.md)
-- [logs/ssh_setup_example.log](logs/ssh_setup_example.log)
+- [notes.md](notes.md)
+- [ssh_setup_example.log](ssh_setup_example.log)

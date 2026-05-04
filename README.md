@@ -13,6 +13,8 @@ This repository originally began as a system optimization project focused on con
 ```text
 linux-security-lab/
 ├── README.md
+├── LICENSE
+├── CONTRIBUTING.md
 ├── system-info/
 │   └── macbook-ubuntu-specs.md
 ├── linux-setup-phases/
